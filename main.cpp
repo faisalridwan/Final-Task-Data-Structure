@@ -26,7 +26,7 @@ void menuUtama(){
     cout<<" =                  Tubes-KOFU                     =\n";
     cout<<" =                  Data Dokumen                   =\n";
     cout<<" =                  Created by :                   =\n";
-    cout<<" =     FAISAL RIDWAN SIREGAR & GEDE AGUS HENDRA    =\n";
+    cout<<" =             FAISAL RIDWAN SIREGAR               =\n";
     cout<<" =                    IF-41-06                     =\n";
     cout<<" ===================================================\n";
     cout<<"\n";
